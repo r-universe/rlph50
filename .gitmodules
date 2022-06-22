@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "garma"]
+	path = garma
+	url = https://github.com/rlph50/garma
+	shallow = true
+	registered = true
